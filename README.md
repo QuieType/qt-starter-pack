@@ -43,7 +43,7 @@ Integrates Crosscode with Discord Rich Presence, allowing your friends to wonder
 Adds extra (canon-compliant) incidental party dialogue to the game, most of which you'll find in the dlc or late game. If you want to see the various possible conversations, check out the [mod's page](https://github.com/krypciak/cc-extra-dialogue), but beware spoilers!
 #### [Fancy Crash](https://github.com/krypciak/cc-fancy-crash)
 Currently, when Crosscode crashes it displayes the crash screen from early access, telling you to contact the game developers. Now that you're installing possibly game-breaking mods, use this (slightly) less scary crash screen instead! Now with configurable explosions!  
-If you do crash, visit [![Discord](https://shields.io)](https://discord.gg/3Xw69VjXfW), and tell us what happened. Copying the crash log and list of mods is always a good idea.
+If you do crash, visit our [![discord](https://shields.io)](https://discord.gg/3Xw69VjXfW), and tell us what happened. Copying the crash log and list of mods is always a good idea.
 #### [Dungeon Revisits](https://github.com/Azure-Lazuline/dungeon-revisits)
 Crosscode, **spoilers**, has difficult zelda-like dungeons in it. This mod let's you play them again once you get modt of the way through the game. Don't worry: if you, like most of us, never want to see a crosscode dungeon again, just ignore those weird hologram panels next to the temple openings.
 #### [Junolea Skin](https://github.com/Inevitabilis/CC-Junolea)
