@@ -34,7 +34,7 @@ Balances the game, making certain enemies and Combat Arts fairer, as well as som
 #### [El-Tweaks](https://github.com/elluminance/el-crosscode-tweaks)
 Allows you to favorite trades, in a system exactly like the already-existing quest-bookmarking system, as well as many other useful tweaks. [mod's page](https://github.com/elluminance/el-crosscode-tweaks) for detailed tweaks (spoilers for mechanics but not story)
 > [!WARNING]
-> This mod adds a single cheat, an Item Spawner that must first be enabled in sttings. If this is your first playthrough, or if you don't know what your doing, *please* don't touch it. This is the only part of any of the mods here that I think have the potential to actually ruin the experience of playing.
+> This mod adds a single cheat, an Item Spawner that must first be enabled in settings. If this is your first playthrough, or if you don't know what your doing, *please* don't touch it. This is the only part of any of the mods here that I think have the potential to actually ruin the experience of playing.
 #### [Named Saves](https://github.com/canbora/cc-named-saves)
 Allows you to name specific save files to whatever you wish. Useful!
 #### [Rich Presence for Discord](https://github.com/CCDirectLink/CCdiscord)
