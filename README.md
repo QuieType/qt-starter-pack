@@ -32,7 +32,7 @@ Adds several additional New Game+ options to the game, which you can unlock like
 #### [Azure's Adjustments](https://github.com/Azure-Lazuline/azures-adjustments)
 Balances the game, making certain enemies and Combat Arts fairer, as well as some ui changes. Read the [mod's page](https://github.com/Azure-Lazuline/azures-adjustments) for detailed tweaks (spoilers for mechanics but not story)
 #### [El-Tweaks](https://github.com/elluminance/el-crosscode-tweaks)
-Allows you to favorite trades, in a system exactly like the already-existing quest-bookmarking system, as well as many other useful tweaks. [mod's page](https://github.com/elluminance/el-crosscode-tweaks) for detailed tweaks (spoilers for mechanics but not story)
+Allows you to favorite trades, in a system exactly like the already-existing quest-bookmarking system, as well as many other useful tweaks. See the [mod's page](https://github.com/elluminance/el-crosscode-tweaks) for detailed tweaks (spoilers for mechanics but not story)
 > [!WARNING]
 > This mod adds a single cheat, an Item Spawner that must first be enabled in settings. If this is your first playthrough, or if you don't know what your doing, *please* don't touch it. This is the only part of any of the mods here that I think have the potential to actually ruin the experience of playing.
 #### [Named Saves](https://github.com/canbora/cc-named-saves)
